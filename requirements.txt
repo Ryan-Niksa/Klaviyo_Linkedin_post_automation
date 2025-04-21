@@ -1,0 +1,8 @@
+flask
+requests
+python-dotenv
+selenium
+webdriver-manager
+PyPDF2
+openai
+klaviyo_sdk
